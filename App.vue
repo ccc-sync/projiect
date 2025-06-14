@@ -8,6 +8,7 @@
     <router-view />
     cccccc
 </div>
+<view>cccccccc</view>
 </template>
 
 <style scoped>
